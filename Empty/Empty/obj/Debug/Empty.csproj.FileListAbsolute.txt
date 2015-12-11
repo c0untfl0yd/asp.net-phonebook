@@ -1,5 +1,0 @@
-c:\documents and settings\keca\my documents\visual studio 2010\Projects\Empty\Empty\bin\Empty.dll
-c:\documents and settings\keca\my documents\visual studio 2010\Projects\Empty\Empty\bin\Empty.pdb
-c:\documents and settings\keca\my documents\visual studio 2010\Projects\Empty\Empty\obj\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\keca\my documents\visual studio 2010\Projects\Empty\Empty\obj\Debug\Empty.dll
-c:\documents and settings\keca\my documents\visual studio 2010\Projects\Empty\Empty\obj\Debug\Empty.pdb
